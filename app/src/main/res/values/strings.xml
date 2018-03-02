@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConvexdPlayer</string>
+    <string name="video_thumbnail">videoThumbnail</string>
+</resources>

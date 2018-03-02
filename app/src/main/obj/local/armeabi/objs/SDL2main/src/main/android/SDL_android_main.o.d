@@ -1,0 +1,32 @@
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/obj/local/armeabi/objs/SDL2main/.//src/main/android/SDL_android_main.o: \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/SDL_android_main.c \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../SDL_internal.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../dynapi/SDL_dynapi.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../dynapi/SDL_dynapi_overrides.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include\SDL_config.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_platform.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/begin_code.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/close_code.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_config_android.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include\SDL_main.h \
+  E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_stdinc.h
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../SDL_internal.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../dynapi/SDL_dynapi.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//src/main/android/../../dynapi/SDL_dynapi_overrides.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include\SDL_config.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_platform.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/begin_code.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/close_code.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_config_android.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include\SDL_main.h:
+
+E:/MyDocuments/Android/AndroidWorkSpace/ConvexdPlayer/app/src/main/jni/sdl/.//include/SDL_stdinc.h:
